@@ -45,3 +45,7 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 ## License
 
 MIT
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lulurun/generator-fractaljs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
